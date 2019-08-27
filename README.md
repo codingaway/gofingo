@@ -5,9 +5,9 @@ Based on example shown in http://www.blackwasp.co.uk/gofpatterns.aspx
 
 | Category             | Patterns                | Description |
 |----------------------|-------------------------|-------------|
-| Creational Patterns  | Abstract Factory        |             |
+| Creational Patterns  | Abstract Factory       |             |
 |                      | Builder                 |             |
-|                      | Factory Method          |             |
+|                      | [Factory Method](creational/factorymethod)          | The factory pattern is used to replace class constructors, abstracting the process of object generation so that the type of the object instantiated can be determined at run-time.            |
 |                      | Prototype               |             |
 |                      | Singleton               |             |
 | Structural Patterns  | Adapter                 |             |
